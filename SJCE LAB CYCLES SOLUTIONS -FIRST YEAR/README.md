@@ -1,4 +1,4 @@
-# lousy-lab
+# Labs
 
 This repository contains the C programs that are to be conducted in the C programming lab. These are meant to enhance the ease of understanding to write code in C language. 
 
